@@ -12,7 +12,7 @@ Junior estimator with experience working on large, multidimensional, commercial 
 ---
 ## PROFESSIONAL EXPERIENCE
 
-### MRC GLOBAL, Bellingham, MA 2015-Present
+#### MRC GLOBAL, Bellingham, MA 2015-Present
 
 Distributor of pipe, valves and fitting products to gas, oil and industrial markets. 
 
@@ -24,7 +24,7 @@ WAREHOUSE ASSOCIATE /DELIVERY DRIVER
 *	Ensure timely delivery of utility components to various locations.
 
 
-### LOWE'S HOME IMPROVEMENT, Hudson, MA/Leominster, MA 2014-2015
+#### LOWE'S HOME IMPROVEMENT, Hudson, MA/Leominster, MA 2014-2015
 
 Home improvement and appliance retailer with stores in the United States, Canada, and Mexico.
 
@@ -34,7 +34,7 @@ SALES ASSOCIATE / DELIVERY DRIVER
 *	Delivered and hooked up household appliances.
 *	Staged delivery orders using a forklift, platform lift, and narrow aisle reach truck.
 
-### FRANNY'S LANDSCAPE CO., INC. (FLC), Framingham, MA 2012-2014
+#### FRANNY'S LANDSCAPE CO., INC. (FLC), Framingham, MA 2012-2014
 
 Commercial subcontractor specializing in landscape construction services for large and small commercial projects throughout MA.
 
@@ -46,7 +46,7 @@ ASSISTANT ESTIMATOR
 *	Maintained detailed estimate files for each project*
 *	Wrote and presented proposals to management for approval.
 
-### LOWE'S HOME IMPROVEMENT, Framingham, MA 2006-2012
+#### LOWE'S HOME IMPROVEMENT, Framingham, MA 2006-2012
 
 Home improvement and appliance retailer with stores in the U.S., Canada, and Mexico.
 
