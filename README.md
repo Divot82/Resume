@@ -1,7 +1,7 @@
-# Resume Charles A. Rolke
+# Resume of Charles A. Rolke
 
-182 Swanson Rd. Unit 314
-Boxborough, MA 01719
+182 Swanson Rd. Unit 314  
+Boxborough, MA 01719  
 (508) 250-3076 / crolke2000@yahoo.com
 
 ---
