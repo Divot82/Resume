@@ -41,7 +41,7 @@ Commercial subcontractor specializing in landscape construction services for lar
 ASSISTANT ESTIMATOR
 
 *	Evaluated plans and specifications to determine materials and labor required to complete projects.
-*	Utilized estimating features of MAS90 for installation costs, labor rates, overhead costs and profit markup.
+*	Utilized estimating features of MAS 90 for installation costs, labor rates, overhead costs and profit markup.
 *	Obtained material costs from suppliers and subcontractors.
 *	Maintained detailed estimate files for each project*
 *	Wrote and presented proposals to management for approval.
